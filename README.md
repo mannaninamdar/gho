@@ -9,9 +9,3 @@ Dashboard Link : https://analytics.dapplooker.com/public/dashboard/1b02494b-574d
 Article Link : https://he2plus.medium.com/gho-a-stable-sail-45c50e9f0542
 
 Discord Data Bot Server : https://discord.gg/dbDRvzFC
-
-## this is first test.
-
-## this is second test.
-
-## this is third test.
